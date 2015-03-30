@@ -1,3 +1,4 @@
+
 # Compiled source #
 ###################
 *.com
@@ -47,3 +48,7 @@ Thumbs.db
 *.xml
 *.mf
 *.DS_Store
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
